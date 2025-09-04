@@ -8,3 +8,5 @@ then
 else
         echo -e "\nUnsuccessful login\n"
 fi
+
+merge conflict
